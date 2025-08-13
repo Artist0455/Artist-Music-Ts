@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Istkhar Music🎵</h1>
+<h1 align="center">🎵 Artist Music🎵</h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/k1gf6k.jpg" alt="Istkhar Music Logo" width="600" height="150">
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <i>Click the button above to instantly deploy Istkhar Music Bot on Heroku</i>
+  <i>Click the button above to instantly deploy Artist Music Bot on Heroku</i>
 </p>
 
 
@@ -124,7 +124,7 @@
 
 ### 🛠 Commands & Usage
 
-The Istkhar Music Bot offers a range of commands to enhance your music listening experience on Telegram:
+The Artist Music Bot offers a range of commands to enhance your music listening experience on Telegram:
 
 | Command                 | Description                                 |
 |-------------------------|---------------------------------------------|
@@ -135,19 +135,19 @@ The Istkhar Music Bot offers a range of commands to enhance your music listening
 | /stop                 | Stop the bot and clear the queue.           |
 | /queue                | Display the list of songs in the queue.     |
 
-For a full list of commands, use /help in [telegram](https://t.me/IstkharumusicBot).
+For a full list of commands, use /help in [telegram](https://t.me/Bye_artist).
 
 ---
 
 ### 🔄 Updates & Support
 
-Stay updated with the latest features and improvements to Istkhar Music Bot:
+Stay updated with the latest features and improvements to Artist Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/Arishfa_Update">
+  <a href="https://telegram.me/Bye_artist">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/ll_ISTKHAR_ll">
+  <a href="https://telegram.me/Bye_artist">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -156,7 +156,7 @@ Stay updated with the latest features and improvements to Istkhar Music Bot:
 
 ### 🤝 Contributing
 
-We welcome contributions to the Istkhar Music Bot project. If you'd like to contribute, please follow these steps:
+We welcome contributions to the Artist Music Bot project. If you'd like to contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch with a meaningful name.
@@ -176,6 +176,6 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 ### 🙏 Acknowledgements
 
-Thanks to all the contributors, supporters, and users of the Istkhar Music Bot. Your feedback and support keep us going!
-- [Istkhar Music Bot](https://t.me/KittuXrobot) and [Istkhar Music](https://github.com/TEAM-ISTKHAR/IstkharMusic) For their Source Codes.
+Thanks to all the contributors, supporters, and users of the Artist Music Bot. Your feedback and support keep us going!
+-  For their Source Codes.
 - for invaluable assistance in resolving the IP ban issue.
